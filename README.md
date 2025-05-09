@@ -1,4 +1,5 @@
 # learning_modern_cpp_tutorial
+ref: https://github.com/changkun/modern-cpp-tutorial/tree/master
 ## Build And Run
 - `env_variable.sh`: 设置环境变量，如 cmake 工作目录、可执行文件存放的 bin 文件夹目录等
 - `build.sh`: 编译所有 src/*.cc
@@ -7,7 +8,7 @@
 - `run_one.sh`: 执行一个编译结果，同 `build_one.sh` 一样，具体哪个取决于 `env_variable.sh` 中的 `default_execute_file`
 - `src/*.cc`: 各个 main 文件
 
-## [现代 C++ 教程](https://github.com/changkun/modern-cpp-tutorial/tree/master)
+## 现代 C++ 教程
 1. 迈向现代 C++
 2. 语言可用性的强化
 3. 语言运行期的强化
