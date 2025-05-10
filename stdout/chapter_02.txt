@@ -1,0 +1,34 @@
+void foo(int)
+void foo(char *)
+
+
+
+void run_initialize_list()
+
+void run_structured_binding()
+x=1, y=2.3, z=456
+
+void run_auto()
+int add_cpp20(auto, auto) [x:auto = int, y:auto = int]
+int add_cpp20(auto, auto) [x:auto = double, y:auto = double]
+
+void run_if_constexpr()
+auto print_type_info(const T &) [T = int]
+6
+auto print_type_info(const T &) [T = double]
+5.001
+
+void run_my_print()
+1
+a
+b
+1
+a
+b
+void print_a_value() [value = 1]
+1
+void print_a_value2() [value = 1]
+1
+void print_a_value2() [value = 'c']
+c
+

@@ -1,0 +1,17 @@
+void run_tuple()
+ID: 1
+grade: A
+A::A(const A &)
+A::A(const A &)
+0
+1
+1
+A
+2
+BC
+3
+1
+4
+A::A(const A &)
+0
+
