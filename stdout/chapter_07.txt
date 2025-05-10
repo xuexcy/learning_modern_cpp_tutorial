@@ -1,0 +1,10 @@
+void run_thread()
+thread_id: 0x16d973000
+hello
+
+void run_mutex()
+
+void run_future()
+future result is: 7
+
+b: 5

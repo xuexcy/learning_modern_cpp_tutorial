@@ -1,0 +1,12 @@
+void run_throw()
+may_throw() noexcept: false
+no_throw() noexcept: true
+lambda_may_throw() noexcept: false
+lambda_no_throw() noexcept: true
+exception from may_throw()
+exception from non_block_throw()
+
+void run_align()
+8
+8
+
