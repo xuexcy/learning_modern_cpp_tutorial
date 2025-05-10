@@ -1,5 +1,5 @@
 void run_thread()
-thread_id: 0x16d973000
+thread_id: 0x16d5cf000
 hello
 
 void run_mutex()
